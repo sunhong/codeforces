@@ -1,6 +1,6 @@
 /*
   Algorithm - Interval Tree
-/*
+*/
 #include <cstdio>
 #include <cstring>
 #include <cstdlib>
